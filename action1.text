@@ -1,0 +1,13 @@
+moveLeft
+moveDown
+moveDown
+moveLeft
+pickCoin
+moveDown
+isLeftWall moveDown moveLeft
+moveDown
+moveDown
+pickCoin
+moveLeft
+dropCoin
+moveLeft
